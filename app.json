@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-AI",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "NEKO-MD",
+  "description": "Javascript WhatsApp bot made by ❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎",
   "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["khan-ai"],
+  "keywords": ["OYY-SREEJAN"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-AI"
+      "value": "❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎"
     }, 
       
     "PREFIX": {
@@ -73,27 +73,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY NEKO-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "917439******"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-AI"
+      "value": "❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎"
 
       }, 
 
@@ -113,7 +113,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎*"
     },
 
       "DELETE_LINKS": {

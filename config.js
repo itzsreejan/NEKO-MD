@@ -31,7 +31,7 @@ OWNER_NAME: process.env.OWNER_NAME || "❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ❥◎⃝𝙎𝙍𝙀𝙀𝙅𝘼𝙉🩷🌸'༢༎*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p26irn.jpeg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> NEKO IS ALIVE⚡",
 // add alive msg here 
